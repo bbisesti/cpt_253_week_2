@@ -25,8 +25,10 @@ By the end of this assignment you should learn more about state, useEffect, and 
       
 3. **Complete the following tasks**:
 
-   Please read the above, then 
+   Please read the above, then update the "SubmitPassKeyForm.jsx" to give yourself the additional two inputs you'll need (the classCode and passkey React state props).  Once you have added the fields please copy/paste the passkey in as well as enter your CPT username (i.e. for "Brett Bisesti" I'd enter  "bbisesti") and your class "CPT253"
+
+   If done correctly when you press the "submit" button you'll see an alert saying you succeeded!  If not you will see an alert saying "try again"
    
-4. **Please commit your code to a public GitHub repository**
+5. **Please commit your code to a public GitHub repository**
     - Once you have completed all three tasks in your code please commit your updated python code to a public repository in GitHub!
     - Once you have a public repository link submit that link to the week one assignment in Brightspace!
