@@ -27,6 +27,10 @@ By the end of this assignment you should learn more about state, useEffect, and 
 
    Please read the above, then update the "SubmitPassKeyForm.jsx" to give yourself the additional two inputs you'll need (the classCode and passkey React state props).  Once you have added the fields please copy/paste the passkey in as well as enter your CPT username (i.e. for "Brett Bisesti" I'd enter  "bbisesti") and your class "CPT253"
 
+   One note I'd like to also make is the "Console" in your broswer will ABSOLUTELY be your friend from here on out!  If you dont know how to get to it please right-click anywhere on a web page in your broswer and click "inspect". 
+
+   The "Console" tab will show you "console.log" or error messages and the network" tab will be useful for seeing network data!  The other tabs are useful too so take some time to get oriented with them!
+
    If done correctly when you press the "submit" button you'll see an alert saying you succeeded!  If not you will see an alert saying "try again"
    
 5. **Please commit your code to a public GitHub repository**
