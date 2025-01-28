@@ -25,7 +25,9 @@ By the end of this assignment you should learn more about state, useEffect, and 
       
 3. **Complete the following tasks**:
 
-   Please read the above, then update the "SubmitPassKeyForm.jsx" to give yourself the additional two inputs you'll need (the classCode and passkey React state props).  Once you have added the fields please copy/paste the passkey in as well as enter your CPT username (i.e. for "Brett Bisesti" I'd enter  "bbisesti") and your class "CPT253"
+   For this assignment you will need to collect a "passkey" from the API your ReactJS application is pointing to and feed it BACK to the API with your username and class code!  Fetching/Pushing the data from/to the API is all set up for you!  But you are missing inputs for the passkey and class code fields - what do you do?!
+
+   Please read the above, then update the "SubmitPassKeyForm.jsx" to give yourself the additional two inputs you'll need.  Once you have added the fields please copy/paste the passkey in as well as enter your CPT username (i.e. for "Brett Bisesti" I'd enter  "bbisesti") and your class "CPT253".  Press submit, and wait for the alert to tell you that you've succeeded!
 
    One note I'd like to also make is the "Console" in your broswer will ABSOLUTELY be your friend from here on out!  If you dont know how to get to it please right-click anywhere on a web page in your broswer and click "inspect". 
 
